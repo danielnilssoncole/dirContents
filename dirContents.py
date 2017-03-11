@@ -9,5 +9,3 @@ def dirContents(sPath):
             print dirContents(childPath)
         else:
             print childPath
-
-print dirContents('/Users/danielnilsson-cole/Desktop/python/projects/osTut')
